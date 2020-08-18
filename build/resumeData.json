@@ -1,0 +1,93 @@
+{
+  "main": {
+    "name":"Jake Zembrzuski",
+    "occupation":"Software Engineer",
+    "description":"looking for a full time position as a full stack or back-end developer",
+    "image":"profilepic.jpg",
+    "bio":"I am a graduate of the College of Saint Rose with a B.S. in Computer Science and a minor in Mathematics. I have worked as a full time developer for the NYS Dept of Education and interned for the Dept. of ITS. I have a wide variety of skills using various technologies which you can learn more about below. This resume website was created using React.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jzembrzuski@gmail.com",
+    "phone": "518-380-7277",
+    "address":{
+      "street":"7 Redcoat Court",
+      "city":"Clifton Park",
+      "state":"New York",
+      "zip": "12065"
+    },
+    "website": "",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jake-zembrzuski-9b424a191/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jzembrzuski",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"The College of Saint Rose",
+        "degree":"Computer Science BS",
+        "graduated":"December 2018",
+        "description":"Algorithms, Programming Languages, Software Engineering, Internet Programming, Operating Systems, Unix with C, Computer Networks, Database Management, Data Structures, Microcomputer Architecture, Discrete Math, Calculus III"
+      },
+      {
+        "school":"Hudson Valley Community College",
+        "degree":"Honor Scholar Math and Science",
+        "graduated":"May 2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"New York State Education Department",
+        "title":"IT Specialist II Programming",
+        "years":"May 2019",
+        "description":" I developed and maintained the State Aid Management System, which is written in JAVA, SQL, and STRUTS 1. I would analyze, troubleshoot, test, maintain, and deploy the application and assured systems and procedures were appropriately documented. I also provided input to Java architecture discussions and shared Java knowledge with staff."
+      },
+      {
+        "company":"New York State Dept of ITS",
+        "title":"Junior Developer",
+        "years":"August 2018 - January 2019",
+        "description":"I converted a Perl web application to Java and collaborated with a team on the project to meet deadlines. I responded to and resolved user reported issues and created and presented potential solutions to problems while utilizing a wide variety of technologies such as Hibernate, Maven, and Git"
+      }
+    ],
+    "projectss":[
+      {
+        "title":"Emulated Oprating System Using Java",
+        "description":"I created a mock linux shell using machine code along with context switching for CPU scheduling written in Java. I also implemented a GUI showing real-time memory usage."
+      },
+      {
+        "title":"Developed charity volunteer website using Angular.js",
+        "description":"I worked on front end development for a volunteer website used to track and organize events for potential charities. I utilized Angular and Bootstrap to implement features such as event scheduling/tracking, permissions handling with different types of user accounts, and easily accessible UI design. "
+      }
+    ]
+
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Java, C, Perl, Haskell ",
+        "user":""
+      },
+      {
+        "text":" SQL, Javascript, Angular.js, React, PHP ",
+        "user":""
+      },
+      {
+        "text":"MIPS, x86 Assembly   ",
+        "user":""
+      },
+      {
+        "text":"Agile/Scrum development practices",
+        "user":""
+      }
+    ]
+  }
+}
