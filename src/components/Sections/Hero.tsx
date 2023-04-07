@@ -1,9 +1,8 @@
-import {ChevronDownIcon} from '@heroicons/react/outline';
 import classNames from 'classnames';
 import Image from 'next/image';
-import {FC, memo} from 'react';
+import { FC, memo } from 'react';
 
-import {heroData, SectionId} from '../../data/data';
+import { heroData, SectionId } from '../../data/data';
 import Section from '../Layout/Section';
 import Socials from '../Socials';
 
