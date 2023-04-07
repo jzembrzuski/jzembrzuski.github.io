@@ -4,7 +4,7 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import heroImage from '{jzembrzuski.github.io}/images/denver_hike.jpeg';
+import heroImage from 'jzembrzuski.github.io/src/data/images/denver_hike.jpeg';
 import {
   Hero,
   HomepageMeta, Social, TimelineItem
