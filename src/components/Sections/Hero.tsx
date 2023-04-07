@@ -17,7 +17,7 @@ const Hero: FC = memo(() => {
           className="absolute z-0"
           layout="fill"
           objectFit="cover"
-          placeholder="blur"
+          // placeholder="blur"
           priority
           src={imageSrc}
         />

@@ -4,7 +4,6 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import heroImage from '/denver_hike.jpeg';
 import {
   Hero,
   HomepageMeta, Social, TimelineItem
@@ -31,7 +30,7 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  * Hero section
  */
 export const heroData: Hero = {
-  imageSrc: heroImage,
+  imageSrc: '/denver_hike.jpeg',
   name: `Jake Zembrzuski`,
   description: (
     <>
