@@ -42,6 +42,12 @@ export interface TimelineItem {
   content: JSX.Element;
 }
 
+export interface Skills {
+  languages: string;
+  frameworks: string;
+  other: string;
+}
+
 
 /**
  * Social items
